@@ -18,11 +18,3 @@ Ce projet est un simple jeu de vaisseau spatial développé en C# avec Unity. Le
 ## Développement
 
 Ce projet a été développé en C# avec Unity. Il utilise le système de physique 2D de Unity pour les mouvements et les collisions.
-
-## Auteur
-
-[ZenT0x]
-
-## Licence
-
-Ce projet est sous licence [GNU].
