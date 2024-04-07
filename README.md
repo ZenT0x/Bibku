@@ -1,6 +1,6 @@
 # Bibku
 
-Ce projet est un simple jeu de vaisseau spatial développé en C# avec Unity. Le joueur contrôle un vaisseau spatial et peut tirer des projectiles pour détruire les ennemis.
+Ébauche d'un simple jeu de vaisseau spatial développé en C# avec Unity. Le joueur contrôle un vaisseau spatial et peut tirer des projectiles pour détruire les ennemis.
 
 ## Caractéristiques
 
